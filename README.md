@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Prithalsing More!
 
-<!--
-**Prithalsing/Prithalsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Tech Enthusiast | Fullstack Developer | AI/ML Explorer  
+🌟 Passionate about building innovative solutions for real-world problems.
 
-Here are some ideas to get you started:
+📌 About Me
+- 🎓 **B.Tech in AI-ML** | Woxsen University  
+- 🌍 Exchange Student at **Halmstad University, Sweden**  
+- 🔧 Developer with a knack for **Next.js**, **NestJS**, and **Deep Learning**  
+- 🐳 Love exploring **Docker** and scalable backend systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Projects
+- 🤖 **Ecommerce Chatbot** (NLP with PyTorch)  
+- 🖼️ **Deepfake Detection** (ResNet50 & MesoNet)  
+- ✍️ **Google Docs Clone** (Socket.io)  
+- 🎵 **Music Recommendation System** (K-means Clustering)  
+
+📬 Let's Connect!
+- 📧 Email: prithalsingmega@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prithalsing-more-953537250)  
+- 🌟 [GitHub](https://github.com/Prithalsing)  
