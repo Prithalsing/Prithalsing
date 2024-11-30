@@ -6,7 +6,7 @@
 📌 About Me
 - 🎓 **B.Tech in AI-ML** | Woxsen University  
 - 🌍 Exchange Student at **Halmstad University, Sweden**  
-- 🔧 Developer with a knack for **Next.js**, **NestJS**, and **Deep Learning**  
+- 🔧 Developer with a knack for **Next.js**, **MERN**, and **Deep Learning**  
 - 🐳 Love exploring **Docker** and scalable backend systems  
 
  🛠️ Projects
